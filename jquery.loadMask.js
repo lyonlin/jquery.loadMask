@@ -35,6 +35,8 @@
     };
     
     $.fn.loadMask = function(opts) {
+    		if(typeof opts=='undefined')
+			opts = {};
 		return this.each(function() {  
 			init(this,{
 				image : typeof opts.image  !== 'undefined' ? opts.image  : '',
