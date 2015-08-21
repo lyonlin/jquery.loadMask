@@ -19,7 +19,7 @@ or
 
 ```js
 $("#loadMask").loadMask({
-	image:'custom.gif', // 等待圖片替換
+	image:'custom.gif', // 等待圖片URL,設為none可停用
 	height: 190, // 圖片高度
 	width: 190, // 圖片寬度
 	bgcolor: '#FAFAD2', // 背景顏色
