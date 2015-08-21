@@ -35,7 +35,7 @@
     };
     
     $.fn.loadMask = function(opts) {
-    		if(typeof opts=='undefined')
+    	if(typeof opts=='undefined')
 			opts = {};
 		return this.each(function() {  
 			init(this,{
@@ -43,7 +43,7 @@
 				height : typeof opts.height  !== 'undefined' ? opts.height  : 120,
 				width : typeof opts.width  !== 'undefined' ? opts.width  : 120,
 				bgcolor: typeof opts.bgcolor !== 'undefined' ? opts.bgcolor : '',
-				timeout: typeof opts.speed !== 'undefined' ? opts.speed : 500,
+				timeout: typeof opts.timeout !== 'undefined' ? opts.timeout : 500,
 				speed: typeof opts.speed !== 'undefined' ? opts.speed : 1000		
 			});
 		});		
