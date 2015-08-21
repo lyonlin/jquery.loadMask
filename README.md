@@ -14,7 +14,7 @@
 $("#loadMask").loadMask();
 ```
 
-OR
+or
 
 ```js
 $("#loadMask").loadMask({
