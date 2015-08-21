@@ -14,6 +14,8 @@
 $("#loadMask").loadMask();
 ```
 
+OR
+
 ```js
 $("#loadMask").loadMask({
 	image:'custom.gif', // 等待圖片替換
