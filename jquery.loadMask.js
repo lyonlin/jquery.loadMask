@@ -1,15 +1,14 @@
 /*!
  * jQuery loadMask plugin
- * Version 1.0
+ * Version 1.0 - 2015.08.21
  * Requires jQuery v1
  *
  * Examples at: https://github.com/lyonlin/jquery.loadMask
- * Copyright (c) 2007-2013 M. Alsup
+ * Copyright (c) 2015 by Lyon Lin
  * Dual licensed under the MIT and GPL licenses:
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/licenses/gpl.html
  *
- * Lyon Lin - 2015.08.21
  */
 
 (function($) {
