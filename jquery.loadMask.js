@@ -5,9 +5,8 @@
  *
  * Examples at: https://github.com/lyonlin/jquery.loadMask
  * Copyright (c) 2015 by Lyon Lin
- * Dual licensed under the MIT and GPL licenses:
+ * Dual licensed under the MIT licenses:
  * http://www.opensource.org/licenses/mit-license.php
- * http://www.gnu.org/licenses/gpl.html
  *
  */
 
