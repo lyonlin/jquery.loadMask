@@ -1,4 +1,5 @@
 # jquery.loadMask
+jquery.loadMask用於網頁載入時，播放動畫
 
 ## Example Usage
 
