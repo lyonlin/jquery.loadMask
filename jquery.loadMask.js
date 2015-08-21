@@ -42,7 +42,7 @@
 				width : typeof opts.width  !== 'undefined' ? opts.width  : 120,
 				bgcolor: typeof opts.bgcolor !== 'undefined' ? opts.bgcolor : '',
 				timeout: typeof opts.speed !== 'undefined' ? opts.speed : 500,
-				speed: typeof opts.speed !== 'undefined' ? opts.speed : 1000,				
+				speed: typeof opts.speed !== 'undefined' ? opts.speed : 1000		
 			});
 		});		
     };
